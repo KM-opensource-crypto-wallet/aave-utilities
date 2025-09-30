@@ -18,16 +18,15 @@
   },
   "peerDependencies": {
     "bignumber.js": "^9.x",
-    "ethers": "^5.x",
     "reflect-metadata": "^0.1.x",
     "tslib": "^2.4.x"
   },
   "devDependencies": {
-    "ethers": "5.4.7",
     "reflect-metadata": "^0.1.13"
   },
   "dependencies": {
-    "isomorphic-unfetch": "^3.1.0"
+    "isomorphic-unfetch": "^3.1.0",
+    "ethers": "^5.x"
   },
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
